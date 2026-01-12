@@ -1,8 +1,5 @@
 # Speech-to-Text Transcription with Cloud Speech API
 
-## Overview
-This lab illustrates how to perform synchronous speech transcription using Google Cloud's Speech-to-Text API. A pre-recorded FLAC audio file stored in Cloud Storage is submitted to the recognition endpoint via REST. The API returns a transcript string and a confidence value. The lab also demonstrates multilingual recognition by modifying the language configuration and submitting a second request.
-
 ## Learning Objectives
 By completing this exercise, we become familiar with:
 - Creating API authentication using an API key
